@@ -1,6 +1,5 @@
--- #Beyond Reborn Robot
--- #@BeyondTeam
 
+@Teleoghab_team
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
 feedparser = (loadfile "./libs/feedparser.lua")()
